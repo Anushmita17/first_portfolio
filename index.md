@@ -16,4 +16,18 @@ For students, the platform offers a personalized learning experience. They can s
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Anushmita17/Online_learning_management_system)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
