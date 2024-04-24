@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Anushmita Mukherjee </p>
+logo: /assets/img/my_photo(1).jpg
+description: 
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/anushmita-mukherjee-a2090a210/">LinkedIn</a> |
+  <a href="https://github.com/Anushmita17">GitHub</a>
+  
+  <br>   
+Experienced Python Developer with a strong background in fintech.
+Specializing in creating innovative solutions to streamline financial
+processes and enhance user experience. Adept at leveraging Python’s 
+versatility and data analysis capabilities to drive data-driven 
+decisions and deliver cutting-edge financial products.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
